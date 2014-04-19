@@ -1,4 +1,3 @@
-hui_template
-============
+##HUI Template
 
 Hujiang front-end template parser
